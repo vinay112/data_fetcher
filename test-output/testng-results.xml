@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32516" started-at="2018-04-16T06:11:16Z" finished-at="2018-04-16T06:11:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32516" started-at="2018-04-16T06:11:16Z" finished-at="2018-04-16T06:11:49Z">
+      <class name="main.Controller">
+        <test-method status="PASS" signature="mainFunction()[pri:0, instance:main.Controller@42e26948]" name="mainFunction" duration-ms="32492" started-at="2018-04-16T06:11:16Z" finished-at="2018-04-16T06:11:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainFunction -->
+      </class> <!-- main.Controller -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
